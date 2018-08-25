@@ -17,6 +17,10 @@
             </intent-filter>
         </activity>
 
+        <activity android:name=".SlideViewActivity" />
+
+        <activity android:name=".SlideFragmentActivity" />
+
     </application>
 
 </manifest>
